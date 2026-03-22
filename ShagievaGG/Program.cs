@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ShagievaGG
+﻿namespace ShagievaGG
 {
     internal class Program
     {
         static void Main(string[] args)
         {
         }
+        //Изменение 1
     }
 }
