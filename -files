@@ -1,0 +1,42 @@
+[1mdiff --git a/ShagievaGG/New_Class2.cs b/ShagievaGG/New_Class2.cs[m
+[1mdeleted file mode 100644[m
+[1mindex c019cfe..0000000[m
+[1m--- a/ShagievaGG/New_Class2.cs[m
+[1m+++ /dev/null[m
+[36m@@ -1,13 +0,0 @@[m
+[31m-﻿using System;[m
+[31m-using System.Collections.Generic;[m
+[31m-using System.Linq;[m
+[31m-using System.Text;[m
+[31m-using System.Threading.Tasks;[m
+[31m-[m
+[31m-namespace ShagievaGG[m
+[31m-{[m
+[31m-    internal class New_Class2[m
+[31m-    {[m
+[31m-    }[m
+[31m-    // LR 2.2[m
+[31m-}[m
+[1mdiff --git a/ShagievaGG/Program.cs b/ShagievaGG/Program.cs[m
+[1mindex 2fa9627..4cd914f 100644[m
+[1m--- a/ShagievaGG/Program.cs[m
+[1m+++ b/ShagievaGG/Program.cs[m
+[36m@@ -9,5 +9,6 @@[m
+         // ShagievaGG, Am-1-25[m
+         //ЛР 2.2[m
+         //// Updated for task 7[m
+[32m+[m[32m        ////new_feature[m
+     }[m
+ }[m
+[1mdiff --git a/ShagievaGG/ShagievaGG.csproj b/ShagievaGG/ShagievaGG.csproj[m
+[1mindex d36f770..2f493de 100644[m
+[1m--- a/ShagievaGG/ShagievaGG.csproj[m
+[1m+++ b/ShagievaGG/ShagievaGG.csproj[m
+[36m@@ -43,7 +43,6 @@[m
+     <Reference Include="System.Xml" />[m
+   </ItemGroup>[m
+   <ItemGroup>[m
+[31m-    <Compile Include="New_Class2.cs" />[m
+     <Compile Include="Program.cs" />[m
+     <Compile Include="Properties\AssemblyInfo.cs" />[m
+   </ItemGroup>[m
