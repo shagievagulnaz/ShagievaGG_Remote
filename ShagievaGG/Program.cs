@@ -9,7 +9,8 @@
         // ShagievaGG, Am-1-25
         //ЛР 2.2
         //// Updated for task 7
-        ///
-        //solve task1
+        ////new_feature
+        ///solve task1
+        ///solve task2
     }
 }
